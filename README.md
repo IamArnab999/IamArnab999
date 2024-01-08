@@ -9,12 +9,10 @@
 
 - 📫 How to reach me **arnabkantdasi2004@gmail.com**
 
-I'm Arnab Kanti Das, a passionate BCA student, programmer & Softwere Engineering enthusiast, on a mission to decode the digital realm. My coding journey is fueled by curiosity and a relentless desire to embrace new technologies.
-
-👨‍💻 Currently honing my skills in programming and web development, I find joy in crafting digital experiences that leave a lasting impression. From debugging code to designing seamless user interfaces. Embracing the full spectrum of technologies, I like to explor the latest trends and tools that elevate my projects. Whether it's mastering the intricacies of algorithms or diving into the world of cutting-edge frameworks.
+I'm Arnab Kanti Das, a passionate BCA student, programmer, web developer & Softwere Engineering enthusiast, on a mission to decode the digital realm. My coding journey is fueled by curiosity and a relentless desire to embrace new technologies. I find joy in crafting digital experiences that leave a lasting impression. From debugging code to designing seamless user interfaces. Embracing the full spectrum of technologies, I like to explor the latest trends and tools that elevate my projects. Whether it's mastering the intricacies of algorithms or diving into the world of cutting-edge frameworks.
 
 🚧 In the process of turning caffeine into code, you can find me navigating through the ever-evolving tech landscape, contributing to open-source projects, and dreaming up the next big thing in the digital universe.
-Let's connect and collaborate on the fascinating journey of turning lines of code into functional and beautiful solutions! 🚀✨
+Let's connect and collaborate on the fascinating journey of turning lines of code into functional and beautiful solutions!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
