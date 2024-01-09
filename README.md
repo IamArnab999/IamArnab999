@@ -9,17 +9,17 @@
 
 - 📫 How to reach me **arnabkantdasi2004@gmail.com**
 
-I'm Arnab Kanti Das, a passionate BCA student, programmer, web developer & Softwere Engineering enthusiast, on a mission to decode the digital realm. My coding journey is fueled by curiosity and a relentless desire to embrace new technologies. I find joy in crafting digital experiences that leave a lasting impression. From debugging code to designing seamless user interfaces. Embracing the full spectrum of technologies, I like to explor the latest trends and tools that elevate my projects. Whether it's mastering the intricacies of algorithms or diving into the world of cutting-edge frameworks.
+I'm Arnab Kanti Das, a passionate BCA student, programmer, web developer & Softwere Engineering enthusiast, on a mission to decode the digital realm.The individual is passionate about coding, embracing new technologies, and creating lasting digital experiences. They enjoy debugging, designing user interfaces, and mastering algorithms and frameworks.
 
 🚧 In the process of turning caffeine into code, you can find me navigating through the ever-evolving tech landscape, contributing to open-source projects, and dreaming up the next big thing in the digital universe.
 Let's connect and collaborate on the fascinating journey of turning lines of code into functional and beautiful solutions!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/arnab-kanti-das-61b164259/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/arnab-kanti-das-61b164259/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100054545703937" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100054545703937" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/arnabkantdasi201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/arnabkantdasi201" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/arnabkantdasi2004/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/arnabkantdasi2004/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/arnab-kanti-das-61b164259/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arnab kanti das" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100054545703937" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="arnab das" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/arnabkantdasi201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@arnabkantdasi201" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/arnabkantdasi2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="arnabkantdasi2004" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/arnabkantegw8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/arnabkantegw8" height="30" width="40" /></a>
 </p>
 
