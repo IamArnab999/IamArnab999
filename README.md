@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **arnabkantdasi2004@gmail.com**
 
-I'm Arnab Kanti Das, a passionate Programmer, web developer & Softwere Engineering enthusiast, on a mission to decode the digital realm. I like debugging, designing user interfaces and mastering algorithms and frameworks.
+I'm Arnab Kanti Das, a passionate Programmer, part-time Freelancer, Web developer & Softwere Engineering enthusiast, on a mission to decode the digital realm. I like debugging, designing user interfaces and mastering algorithms and frameworks.
 
 In the process of turning caffeine into code, you can find me navigating through the ever-evolving tech landscape, contributing to open-source projects, and dreaming up the next big thing in the digital universe.
 Let's connect and collaborate on the fascinating journey of turning lines of code into functional and beautiful solutions!
