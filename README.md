@@ -19,7 +19,7 @@ Let's connect and collaborate on the fascinating journey of turning lines of cod
 <a href="https://www.linkedin.com/in/arnab-kanti-das-61b164259/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arnab kanti das" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100054545703937" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="arnab das" height="30" width="40" /></a>
 <a href="https://twitter.com/arnabk_das" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="arnabk_das" height="30" width="40" /></a>
-<a href="https://discord.gg/1199042959153311805" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1199042959153311805" height="30" width="40" /></a>
+<a href="https://discord.com/channels/@itzarnabhere" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1199042959153311805" height="30" width="40" /></a>
 </p>
 <h3 align="left">Others:</h3>
 <p align="left">
