@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on: **5 Python mini projects**
 
-- 🌱 I’m currently learning **ReactJs**
+- 🌱 I’m currently learning **Git & gitHub**
 
 - 📫 How to reach me **arnabkantdasi2004@gmail.com**
 
