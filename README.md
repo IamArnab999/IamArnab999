@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamarnab999&label=Profile%20views&color=0e75b6&style=flat" alt="iamarnab999" /> </p>
 
-- 🔭 I’m currently working on: **5 Python mini projects**
+- 🔭 I’m currently working on: **Python mini projects**
 
 - 🌱 I’m currently learning **Git & gitHub**
 
