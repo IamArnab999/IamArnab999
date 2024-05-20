@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on: **Full stack Web Development**
 
-- 🌱 I’m currently learning **Git & gitHub**
+- 🌱 I’m currently learning **JavaScript**
 
 - 📫 How to reach me **arnabkantdasi2004@gmail.com**
 
